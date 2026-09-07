@@ -242,26 +242,25 @@ Deployed on \*\*Streamlit Community Cloud\*\*, connected to a \*\*Supabase\*\* P
 
 \---
 
+## Screenshots
 
+![Home page](screenshots/Home_page.png)
+*Home page — live summary metrics and quick player search*
 
-\## Screenshots
+![Live Matches page](screenshots/Live_matches_page.png)
+*Live Matches — real-time data from the Cricbuzz API*
 
+![Top Player Stats — Live Rankings](screenshots/Top_player_stats_page.png)
+*Top Player Stats — live ICC-style rankings*
 
+![Top Player Stats — Database Leaderboards](screenshots/Top_player_stats_page1.png)
+*Top Player Stats — database leaderboards with bar-chart visualization*
 
-\_\[Add screenshots of each page here before final submission]\_
+![SQL Analytics page](screenshots/SQL_Analytics_page.png)
+*SQL Analytics — interactive query selector*
 
-
-
-\- Home dashboard
-
-\- Live Matches with scorecard
-
-\- Top Player Stats with charts
-
-\- SQL Analytics
-
-\- CRUD Operations
-
+![CRUD Operations page](screenshots/CRUD_Operation_page.png)
+*CRUD Operations — add/edit player form*
 
 
 \---
