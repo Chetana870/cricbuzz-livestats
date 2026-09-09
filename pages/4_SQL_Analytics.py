@@ -17,7 +17,7 @@ if st.button("🏠 Home"):
     st.switch_page("main.py")
 
 st.title("📊 SQL Analytics")
-st.caption("25 analytics questions from the project brief — currently Q1–Q14 are available.")
+
 
 question_labels = {num: info["title"] for num, info in QUERIES.items()}
 selected_num = st.selectbox(
